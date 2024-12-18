@@ -14,3 +14,9 @@ public class Main {
 	}
 
 }
+
+/**
+ * For a more detailed information about object-oriented programming in Java go to:
+ *  
+ * https://www.amazon.com/dp/B0DG45KX7D?ref_=pe_93986420_774957520
+ */
